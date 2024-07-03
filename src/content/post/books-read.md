@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-06-30"
+publishDate: "2024-07-04"
 tags: ["books", "featured"]
 ---
 
+- [数学の二つの心](https://nippyo.co.jp/shop/book/7506.html) - 長岡亮介	著
 - [ベーシックインカムの祈り](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-744445-2) - 井上真偽 著
 - [恋と禁忌の述語論理](https://bookclub.kodansha.co.jp/product?item=0000318280) - 井上真偽 著
 - [孤独な散歩者の夢想](https://www.shinchosha.co.jp/book/200701/) - ルソー 著
